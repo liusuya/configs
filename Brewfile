@@ -1,0 +1,11 @@
+# run brew bundle to install
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+# brew "cookiecutter"
+brew "coreutils"
+# brew "k9s"
+brew "n"
+brew "the_silver_searcher"
+brew "direnv"
+# brew "yarn"
